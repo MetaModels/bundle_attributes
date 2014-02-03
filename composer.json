@@ -40,7 +40,6 @@
 	"require":{
 		"metamodels/bundle_translated":"*",
 		"metamodels/bundle_nontranslated":"*",
-		"metamodels/attribute_checkbox":"*",
 		"metamodels/attribute_combinedvalues":"*",
 		"metamodels/attribute_country":"*",
 		"metamodels/attribute_decimal":"*",
