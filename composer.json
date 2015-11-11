@@ -38,14 +38,14 @@
 		"source":"https://github.com/MetaModels/bundle_attributes"
 	},
 	"require":{
-		"metamodels/bundle_translated":"*",
-		"metamodels/bundle_nontranslated":"*",
-		"metamodels/attribute_combinedvalues":"*",
-		"metamodels/attribute_country":"*",
-		"metamodels/attribute_decimal":"*",
-		"metamodels/attribute_langcode":"*",
-		"metamodels/attribute_numeric":"*",
-		"metamodels/attribute_timestamp":"*",
-		"metamodels/attribute_url":"*"
+		"metamodels/bundle_translated":"~1.0",
+		"metamodels/bundle_nontranslated":"~1.0",
+		"metamodels/attribute_combinedvalues":"~1.0",
+		"metamodels/attribute_country":"~1.0",
+		"metamodels/attribute_decimal":"~1.0",
+		"metamodels/attribute_langcode":"~1.0",
+		"metamodels/attribute_numeric":"~1.0",
+		"metamodels/attribute_timestamp":"~1.0",
+		"metamodels/attribute_url":"~1.0"
 	}
 }
