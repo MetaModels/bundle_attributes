@@ -38,7 +38,6 @@
     "metamodels/attribute_decimal": "~2.0",
     "metamodels/attribute_langcode": "~2.0",
     "metamodels/attribute_numeric": "~2.0",
-    "metamodels/attribute_timestamp": "~2.0",
-    "metamodels/attribute_url": "~2.0"
+    "metamodels/attribute_timestamp": "~2.0"
   }
 }
