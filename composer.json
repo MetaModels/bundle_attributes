@@ -31,8 +31,8 @@
     "source": "https://github.com/MetaModels/bundle_attributes"
   },
   "require": {
-    "metamodels/bundle_translated": "~2.0",
-    "metamodels/bundle_nontranslated": "~2.0",
+    "metamodels/bundle_translated": "^2.0.1",
+    "metamodels/bundle_nontranslated": "^2.0.1",
     "metamodels/attribute_combinedvalues": "~2.0",
     "metamodels/attribute_country": "~2.0",
     "metamodels/attribute_decimal": "~2.0",
